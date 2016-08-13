@@ -1,3 +1,3 @@
 # this_love
-My first repository
+My first repository.
 I love music.
